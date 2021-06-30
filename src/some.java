@@ -4,5 +4,6 @@ public class some {
 
         System.out.println("aaa");
         System.out.println("And this is second message about new project ");
+        System.out.println("kjkjkjkjkjkjkj");
     }
 }
