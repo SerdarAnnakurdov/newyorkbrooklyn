@@ -6,5 +6,8 @@ public class some {
         System.out.println("And this is second message about new project ");
         System.out.println("kjkjkjkjkjkjkj");
         System.out.println("aaaaa");
+        System.out.println("111111");
+        System.out.println("000000");
     }
 }
+
